@@ -1,4 +1,3 @@
-[include mmu/optional/mmu_menu.cfg]
 [include mainsail.cfg]
 
 [display_status]
